@@ -1,3 +1,12 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "railway-proxy",
+  "version": "1.0.0",
+  "description": "Simple Node.js Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
